@@ -1,0 +1,13 @@
+====Kelly
+Replaced UnityEditor package with browser that can be built into exe for both editor and player
+Worked on the demo that our client want
+
+
+====Min
+Created timeline (hotspot sort tree) for the project
+
+
+
+====Micheal
+Added progress bar for the player
+Worked on the demo that our client want
