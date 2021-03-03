@@ -1,0 +1,9 @@
+=======Kelly
+Added package handling for the project.
+Solved bug for incorrect left-click on hotspot.
+
+=======Min
+
+
+
+=======Micheal
