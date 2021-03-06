@@ -1,0 +1,15 @@
+must have===
+adding hotspots by click
+hotspots at static positions
+adding name and text to hotspot
+photos and videos attached to hotspots
+hotspots store to json file
+
+could have===
+hotspots only appears at certain time period
+switch to other videos and switch back
+editor used as player
+
+would like to have===
+final delivered as a pack
+rename and organise the files attacked to hotspots
