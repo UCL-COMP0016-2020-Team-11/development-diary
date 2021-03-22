@@ -14,13 +14,13 @@ safe and secure====
 the whole app is off-line / no internet required
 
 
-must have ==
+## must have 
 safe and secure
 
-should have ==
+## should have
 user-friendly
 
-could have==
+## could have 
 clear and understandable interface
 
-would like to have==
+## would like to have
