@@ -1,8 +1,7 @@
 user-friendly====
 --functionalities
 store hotspots when exit the program - work not lost by accidental exit
-allow put-back
-allow cancel - wrong button pressed
+
 --file organization
 file organised with renaming 
 one file delivered in the end
