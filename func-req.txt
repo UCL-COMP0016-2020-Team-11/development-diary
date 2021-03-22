@@ -1,27 +1,25 @@
 must have===
-adding hotspots by click
+adding hotspots by clicking
 hotspots at static positions
-adding name and text to hotspot
+adding names and texts to hotspots
 photos attached to hotspots
-hotspots details store to json file
+hotspots details stored to a json file
 
 should have===
-hotspots only appears at certain time period
+set hotspots to only appear for a certain time
 hotspots can be deleted
-switch to other videos and switch back
-outcome of editor delivered as a pack
+videos attached to hotspots
+switch between videos in hotspots
+the outcome of an editor delivered as a pack
 
 could have===
-rename and organise the files attacked to hotspots
-when jumping back from the branched video, the videoplayer is at the previous time spot and facing the previous hotspot
-timeline showing the hotspots attached to videos 
-seperate player that can unpack the package produced by the editor
-seperate player that can view everything produced by the editor
+rename and organise the files attached to hotspots
+when jumping back from a branched video, the videoplayer should be at the previous time spot and facing the previous hotspot
+timeline showing the hotspots attached to videos
+Make a seperate player that can unpack a package produced by the editor and view everything produced by the editor
 
 would like to have===
 hotspots and its photos and branches can be renamed
 timeline can navigate the users to the timespots
 timeline can be updated after adding hotspots 
 player would delete the pack generated from the package
-
-
