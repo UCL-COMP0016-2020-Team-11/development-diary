@@ -2,16 +2,22 @@ must have===
 adding hotspots by click
 hotspots at static positions
 adding name and text to hotspot
-photos and videos attached to hotspots
-hotspots store to json file
+photos attached to hotspots
+hotspots details store to json file
+
+should have===
+hotspots only appears at certain time period
+hotspots can be deleted
+switch to other videos and switch back
+outcome of editor delivered as a pack
 
 could have===
-allow users to edit and save at the second time of editing
-hotspots only appears at certain time period
-switch to other videos and switch back
-editor used as player
+rename and organise the files attacked to hotspots
+when jumping back from the branched video, the videoplayer is at the previous time spot and facing the previous hotspot
+timeline showing the hotspots attached to videos 
 
 would like to have===
-final delivered as a pack
-rename and organise the files attacked to hotspots
-when jumping back from the second video, the videoplayer is at the previous time spot and facing the previous hotspot
+timeline can navigate the users to the timespots
+timeline can be updated after adding hotspots 
+seperate player that can unpack the package from the trainer
+

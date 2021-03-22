@@ -13,3 +13,15 @@ button with text(not photos) so can be understand easily
 
 safe and secure====
 the whole app is off-line / no internet required
+
+
+must have ==
+safe and secure
+
+should have ==
+user-friendly
+
+could have==
+clear and understandable interface
+
+would like to have==
