@@ -15,9 +15,13 @@ could have===
 rename and organise the files attacked to hotspots
 when jumping back from the branched video, the videoplayer is at the previous time spot and facing the previous hotspot
 timeline showing the hotspots attached to videos 
+seperate player that can unpack the package produced by the editor
+seperate player that can view everything produced by the editor
 
 would like to have===
+hotspots and its photos and branches can be renamed
 timeline can navigate the users to the timespots
 timeline can be updated after adding hotspots 
-seperate player that can unpack the package from the trainer
+player would delete the pack generated from the package
+
 
