@@ -1,0 +1,14 @@
+-------------------------------------------
+user-friendly====
+--functionalities
+store hotspots when exit the program - work not lost by accidental exit
+
+--file organization
+file organised with renaming 
+one file delivered in the end
+--user interface
+big buttons avoid wrong operation 
+button with text(not photos) so can be understand easily
+
+safe and secure====
+the whole app is off-line / no internet required
