@@ -1,26 +1,24 @@
-user-friendly====
---functionalities
-store hotspots when exit the program - work not lost by accidental exit
-
---file organization
-file organised with renaming 
-one file delivered in the end
---user interface
-big buttons avoid wrong operation 
-button with text(not photos) so can be understand easily
-
-
-safe and secure====
-the whole app is off-line / no internet required
-
-
 ## must have 
-safe and secure
+- The software needs to be precise and accurate about the information it helds.
+- Safe and Secure: Files and its relative information would be held secure
+- The whole system should be held offline.
+- User-Friendly: Files should be held in a organized and understandable way.
+
 
 ## should have
-user-friendly
+- User-Friendly: Reduce the probability for the users to lost their work by accident
+- There should be help pages/ guidance on the page to help the user.
+- The software should be designed to deliver the files it produces easily.
 
 ## could have 
-clear and understandable interface
+- Clear and understandable interface
+- Buttons with clearer and more understandable icons
+- 
 
 ## would like to have
+- All the icons should of the same style.
+- The panels display the information clear.
+
+
+
+
