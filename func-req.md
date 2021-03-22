@@ -12,13 +12,13 @@
 - switch between videos in hotspots
 - the outcome of an editor delivered as a pack
 
-## could have===
+## could have
 - rename and organise the files attached to hotspots
 - when jumping back from a branched video, the videoplayer should be at the previous time spot and facing the previous hotspot
 - timeline showing the hotspots attached to videos
 - Make a seperate player that can unpack a package produced by the editor and view everything produced by the editor
 
-## would like to have===
+## would like to have
 - hotspots and its photos and branches can be renamed
 - timeline can navigate the users to the timespots
 - timeline can be updated after adding hotspots 
