@@ -13,7 +13,6 @@
 ## could have 
 - Clear and understandable interface
 - Buttons with clearer and more understandable icons
-- 
 
 ## would like to have
 - All the icons should of the same style.
